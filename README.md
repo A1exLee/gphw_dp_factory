@@ -1,4 +1,4 @@
-# gp_homeworks咕泡作业
+# gp_homeworks
 ### 第一次课程-工厂模式
 
 ### UML
